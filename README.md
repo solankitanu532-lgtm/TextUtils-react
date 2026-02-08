@@ -1,5 +1,5 @@
 # TextUtils React App
-
+ 
 TextUtils is a simple React-based web application that allows users to analyze and manipulate text easily.  
 It also includes **Light/Dark Mode** and an **About section** for better UI experience.
 
