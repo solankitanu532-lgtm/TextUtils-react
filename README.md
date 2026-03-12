@@ -22,7 +22,7 @@ It also includes **Light/Dark Mode** and an **About section** for better UI expe
 ## 🛠️ Tech Stack
 
 - **React.js**
-- **JavaScript (ES6)**
+- **JavaScript**
 - **HTML5**
 - **CSS3**
 - **Bootstrap**
