@@ -12,7 +12,6 @@ It also includes **Light/Dark Mode** and an **About section** for better UI expe
 
 - ✏️ Text analysis and manipulation
 - 🌙 Dark Mode / Light Mode toggle
-- 📊 Word & character count
 - ⚡ Fast and responsive UI
 - 🧩 Accordion-based About section
 - 🧭 Simple navigation using Navbar
